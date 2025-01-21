@@ -1,3 +1,5 @@
+##Repository for MH-PPO and Coop-MH-PPO: A hybrid action space and multi-agent model for autonomous vehicle (AV) control during interactions with pedestrians.
+
 # 1) Structure:
   - python files: MH-PPO and Coop-MH-PPO models (scalable model is learning with variable numbers of agents)
     
