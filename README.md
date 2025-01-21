@@ -27,7 +27,5 @@
   
   ```jupyter nbconvert --to script file.ipynb```
   
-  then 
-  
-  ```python file.py```
+ ( then  ```python file.py``` )
   
