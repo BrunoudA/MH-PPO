@@ -1,19 +1,19 @@
-#1) Structure:
+# 1) Structure:
   - python files: MH-PPO and Coop-MH-PPO models (scalable model is learning with variable numbers of agents) 
   - Environments folder for MDP environment with GYM library
   - load_model folder for trained model
 
 
-#2) Create Virtual Environment:
+# 2) Create Virtual Environment:
   python -m venv myenv
-  # For Windows
+  For Windows
   myenv\Scripts\activate
-  # For macOS/Linux
+  For macOS/Linux
   source myenv/bin/activate
   
-  # Install dependencies: Install the required libraries using:
+  Install dependencies: Install the required libraries using:
   pip install -r requirements.txt
 
-#3) Run algorithm:
+# 3) Run algorithm:
   python file.py (e.g. Coop-MH-PPO-scalable.py)
   
