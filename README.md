@@ -5,15 +5,15 @@
 
 
 # 2) Create Virtual Environment:
-  python -m venv myenv
+  ```bash python -m venv myenv ```
   For Windows
-  myenv\Scripts\activate
+  ```bash myenv\Scripts\activate ```
   For macOS/Linux
-  source myenv/bin/activate
+  ```bash source myenv/bin/activate ```
   
   Install dependencies: Install the required libraries using:
-  pip install -r requirements.txt
+  ```bash pip install -r requirements.txt ```
 
 # 3) Run algorithm:
-  python file.py (e.g. Coop-MH-PPO-scalable.py)
+  ```bash python file.py (e.g. Coop-MH-PPO-scalable.py)```
   
