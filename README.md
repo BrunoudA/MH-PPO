@@ -20,6 +20,14 @@
   Install dependencies: Install the required libraries using:
   ```pip install -r requirements.txt ```
 
-## 3) Run algorithm:
-  ```python file.py (e.g. Coop-MH-PPO-scalable.py)```
+## 3) Run algorithms:
+  Recommendation: Use Jupyter Notebook
+  
+  Else transform the jupyter file with the command:
+  
+  ```jupyter nbconvert --to script file.ipynb```
+  
+  then 
+  
+  ```python file.py```
   
